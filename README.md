@@ -5,7 +5,7 @@ This *website* gives information about each **module** that we will learn in the
 ## Table of Contents
 | Course | Module |
 | -------- | --------|
-| Code 102 | ,gckhgcg|
+| Code 102 | [102 Classes](https://github.com/CollinsDrew/reading-notes)|
 | Code 201 | Class 01|
 | Code 201 | Class 02|
 | Code 201 | Class 03|
