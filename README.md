@@ -26,5 +26,18 @@ This *website* gives information about each **module** that we will learn in the
 - Hyper Text Markup Language
 - ***HTML*** is the standard markup language used to create **web pages**
 - Used to communicate how *content* should be organised
-- ## Tells the **browser
-      hfvbsdnm.
+- Tells the **browser** what the content is
+
+## CSS
+- Cascading Style Sheets
+- ***CSS*** tells the browser how the content should look
+- Can change font, color and size, placement of content, responsiveness
+
+## Javascript
+- ***JS*** allows dynamic interactions with the browser
+- Tells the browser what to do when certain things happen
+- Mulithreaded
+- Synchronous
+- Input/Output
+- Componant based
+- Programming language
