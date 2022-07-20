@@ -5,3 +5,4 @@ This *website* gives information about each **module** that we will learn in the
 ## Table of Contents
 | Course | Module |
 | Code 102| All|
+| Code 201 | Class 01|
