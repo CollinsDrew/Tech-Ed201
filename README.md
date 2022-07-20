@@ -21,3 +21,8 @@ This *website* gives information about each **module** that we will learn in the
 | Code 201 | Class 13|
 | Code 201 | Class 14|
 | Code 201 | Class 15|
+
+## HTML
+- Hyper Text Markup Language
+- HTML is the standard markup language used to create web pages.
+- 
