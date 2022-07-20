@@ -6,4 +6,4 @@ This *website* gives information about each **module** that we will learn in the
 | Course | Module |
 | - | -|
 | Code 102| All|
-| Code 201 | Class 01|
+| Code 201 | [Class 01](https://github.com/CollinsDrew/reading-notes)|
