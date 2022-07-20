@@ -24,5 +24,7 @@ This *website* gives information about each **module** that we will learn in the
 
 ## HTML
 - Hyper Text Markup Language
-- HTML is the standard markup language used to create web pages.
-- 
+- ***HTML*** is the standard markup language used to create **web pages**
+- Used to communicate how *content* should be organised
+- ## Tells the **browser
+      hfvbsdnm.
