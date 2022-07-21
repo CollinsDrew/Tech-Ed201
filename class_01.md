@@ -13,3 +13,13 @@ This binary code is then translated back in to its original code once all the **
 The browser then collects all of the information, and displays this to your computer in the form of Web page.
 
 ![web works](webworks.jpeg)
+
+## **HTML** parsing
+
+*Parsing* means taking the code we write as text (HTML, CSS, JS etc) and transform it into something that the browser can work with.
+*Parsing* is done by the **browser engine**.
+The **browser engine** is the core component of every major browser, and it's role is to combine all of the structure, such as **HTML**,
+**CSS** and **Javascript**, and present the web page on to our screens.
+**HTML** parsing involves 2 steps.
+1- tokenization
+2- tree construction
