@@ -43,5 +43,11 @@ While the CSS is being parsed and the CSSOM (CSS object model) created, other as
 
 There are a couple of ways to add images to your website.
 1. Copy the URL of the image you wish to insert. Open your index. html file and insert it into the img code, and then save the HTML file
-2. Save the image to your local machine, upload the image and add to your add HTML file using <img src=""/>
+2. Save the image to your local machine, upload the image and add to your add HTML file using img src
 
+## What is the first step to designing a Website?
+
+1. Visualise your goal
+2. Determine your content
+3. Determine your audience
+4. Design a wireframe
