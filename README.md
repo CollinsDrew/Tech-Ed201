@@ -45,4 +45,7 @@ This *website* gives information about each **module** that we will learn in the
 ## Things i want to know more about
 
 - More detailed **CSS** attributes
-- JS libaries
+- JS libraries
+- API's
+- Advanced JS functions
+- How to create more dynamic and interactive websites
