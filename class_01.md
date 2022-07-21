@@ -11,4 +11,5 @@ The browser then sends a request to that server for the page you want, using a s
 Information is sent around the world via fibre optic cables, the data is broken down into 6-bit '**packets**', and sent in binary code.
 This binary code is then translated back in to its original code once all the **packets** have been recieved.
 The browser then collects all of the information, and displays this to your computer in the form of Web page.
+
 ![web works](webworks.jpeg)
