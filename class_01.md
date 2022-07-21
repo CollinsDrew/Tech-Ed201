@@ -21,5 +21,5 @@ The browser then collects all of the information, and displays this to your comp
 The **browser engine** is the core component of every major browser, and it's role is to combine all of the structure, such as **HTML**,
 **CSS** and **Javascript**, and present the web page on to our screens.
 **HTML** parsing involves 2 steps.
-1- tokenization
-2- tree construction
+1. tokenization
+2. tree construction
