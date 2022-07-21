@@ -23,3 +23,19 @@ The **browser engine** is the core component of every major browser, and it's ro
 **HTML** parsing involves 2 steps.
 1. tokenization
 2. tree construction
+
+What results at the end of the tokenization process is a series of zero or more of the following tokens.
+DOCTYPE, start tag (<tag>), end tag (</tag>), self-closing tag (<tag/>), attribute names, values, comments, characters, end-of-file or plain text content within an element.
+After the first token gets created, tree building starts. This is essentially creating a tree like structure (called the Document Object Model) based on the previously parsed tokens. The DOM tree describes the content of the HTML content.
+
+## **CSS** parsing
+
+While the HTML content is being parsed, the **CSS** are depolyed. 
+After loading the CSS files, the parsing of CSS occurs, similar to the parsing of the HTML files, but there’s a slight difference. The parsing of CSS files takes place in two steps, and it’s a bit more complex.
+The first step is cascading and resolving any conflicts.
+The second step is processing the final CSS values.
+
+## **JS** parsing
+
+While the CSS is being parsed and the CSSOM (CSS object model) created, other assets, including JavaScript files, are downloading (thanks to the preload scanner). JavaScript is interpreted, compiled, parsed and executed. The scripts are parsed into abstract syntax trees. Some browser engines take the Abstract Syntax Tree and pass it into an interpreter, outputting bytecode which is executed on the main thread. This is known as JavaScript compilation.
+
