@@ -41,3 +41,8 @@ This *website* gives information about each **module** that we will learn in the
 - Input/Output
 - Componant based
 - Programming language
+
+## Things i want to know more about
+
+- More detailed **CSS** attributes
+- JS libaries
