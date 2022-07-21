@@ -39,3 +39,9 @@ The second step is processing the final CSS values.
 
 While the CSS is being parsed and the CSSOM (CSS object model) created, other assets, including JavaScript files, are downloading (thanks to the preload scanner). JavaScript is interpreted, compiled, parsed and executed. The scripts are parsed into abstract syntax trees. Some browser engines take the Abstract Syntax Tree and pass it into an interpreter, outputting bytecode which is executed on the main thread. This is known as JavaScript compilation.
 
+## How can you find images to add to a Website?
+
+There are a couple of ways to add images to your website.
+1. Copy the URL of the image you wish to insert. Open your index. html file and insert it into the img code, and then save the HTML file
+2. Save the image to your local machine, upload the image and add to your add HTML file using <img src=""/>
+
