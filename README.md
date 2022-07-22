@@ -46,6 +46,6 @@ This *website* gives information about each **module** that we will learn in the
 
 - More detailed **CSS** attributes
 - JS libraries
-- API's
+- API's (Application Programming Interfaces)
 - Advanced JS functions
 - How to create more dynamic and interactive websites
