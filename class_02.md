@@ -11,6 +11,6 @@ abbriviation or acronym means.
   
   
 There are three ways to add CSS to HTML.
-- Add inline CSS in a style attribute to style a single HTML element on the page
+- Add inline CSS in a style attribute to style a single HTML element on the page.
 - You can embed an internal stylesheet by adding CSS to the head section of your HTML doc.
 - You can link to an external stylesheet that will contain all your CSS separate from your HTML.  
