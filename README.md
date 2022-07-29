@@ -7,7 +7,7 @@ This *website* gives information about each **module** that we will learn in the
 | -------- | --------|
 | Code 102 | [102 Classes](https://github.com/CollinsDrew/reading-notes) |
 | Code 201 | [Class 01](https://github.com/CollinsDrew/Tech-Ed201/blob/main/class_01.md) |
-| Code 201 | Class 02 |
+| Code 201 | [Class 02](https://github.com/CollinsDrew/Tech-Ed201/blob/main/class_02.md) |
 | Code 201 | Class 03 |
 | Code 201 | Class 04 |
 | Code 201 | Class 05 |
