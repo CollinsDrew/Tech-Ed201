@@ -15,12 +15,12 @@ There are three ways to add CSS to HTML.
 - You can embed an internal stylesheet by adding CSS to the head section of your HTML doc.
 - You can link to an external stylesheet that will contain all your CSS separate from your HTML.  
 
-  Inline styles should be avoided because they generally are not the best way to maintain your website.
-  It go against every one of the best practices when structuring your code and inline styles don't separate content from design.
+Inline styles should be avoided because they generally are not the best way to maintain your website.
+It go against every one of the best practices when structuring your code and inline styles don't separate content from design.
   
-  ## ***Javascript basics***
+## ***Javascript basics***
   
-  There are quite a few JS operators. Such as:
+There are quite a few JS operators. Such as:
   
   | Operator | Description|
   | -------- | ---------- |
