@@ -41,3 +41,15 @@ The CSS box model is essentially a box that wraps around every HTML element. It 
   - Margin - Clears an area outside the border. The margin is transparent
 
 ![box model](boxmodel.png)
+
+## Arrays. Operators and Expressions. Conditionals. Loops.
+
+### Arrays
+
+Arrays are basically lists that contain multiple values. In an array we can store various data types:
+  - Strings
+  - intergers (numbers)
+  - objects
+  - even other arrays
+
+
