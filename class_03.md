@@ -40,4 +40,4 @@ The CSS box model is essentially a box that wraps around every HTML element. It 
   - Border - A border that goes around the padding and content
   - Margin - Clears an area outside the border. The margin is transparent
 
-
+![box model](css box model.png)
