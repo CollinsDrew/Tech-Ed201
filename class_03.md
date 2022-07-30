@@ -42,9 +42,7 @@ The CSS box model is essentially a box that wraps around every HTML element. It 
 
 ![box model](boxmodel.png)
 
-## Arrays. Operators and Expressions. Conditionals. Loops.
-
-### Arrays
+## Arrays
 
 Arrays are basically lists that contain multiple values. In an array we can store various data types:
   - Strings
@@ -52,4 +50,9 @@ Arrays are basically lists that contain multiple values. In an array we can stor
   - objects
   - even other arrays
 
+## Loops
 
+Loops are all about doing the same thing over and over again.
+The code can be slightly different each time round the loop, or the same code will run but with different variables.
+A JavaScript for loop executes a block of code as long as a specified condition is true. The loop continues to run if the expression returns true.
+Conditions typically return true or false .
