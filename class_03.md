@@ -39,3 +39,5 @@ The CSS box model is essentially a box that wraps around every HTML element. It 
   - Padding - Clears an area around the content. The padding is transparent
   - Border - A border that goes around the padding and content
   - Margin - Clears an area outside the border. The margin is transparent
+
+
