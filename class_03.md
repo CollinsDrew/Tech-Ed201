@@ -9,6 +9,8 @@ We then had to make it so that the user had just 4 attempts to guess the number.
 
 ## HTML lists
 
+### Unordered lists
+
 An unordered list is used to create a list of related items, in no particular order. 
 An unordered list typically is a bulleted list of items.
 The opening list tag must be UL and then by the first list item LI.
@@ -17,3 +19,14 @@ You can change the bullet style of an unordered list by using 'list-style-type'.
   - square
   - upper-roman
   - lower-alpha
+
+### Ordered lists
+
+Ordered lists are used to create a list of related items, in a specific order.
+An ordered list created using the OL element, and each list item starts with the LI element. 
+An ordered list should used when the related items **have** to be in that particular sequence.
+Like unordered list, you can also use the CSS list-style-type property to change the numbering type in an ordered list.
+  1. circle
+  2. square
+  3. upper-roman
+  4. lower-alpha
