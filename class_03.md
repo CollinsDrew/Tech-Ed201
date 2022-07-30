@@ -15,5 +15,5 @@ The opening list tag must be UL and then by the first list item LI.
 You can change the bullet style of an unordered list by using 'list-style-type'. The options available are:
   - circle
   - square
-  -upper-roman
-  -lower-alpha
+  - upper-roman
+  - lower-alpha
