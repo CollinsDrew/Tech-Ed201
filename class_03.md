@@ -30,3 +30,12 @@ Like unordered list, you can also use the CSS list-style-type property to change
   2. square
   3. upper-roman
   4. lower-alpha
+
+## CSS box model
+
+In CSS, the term "box model" is used when talking about design and layout
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
+  - Content - The content of the box, where text and images appear
+  - Padding - Clears an area around the content. The padding is transparent
+  - Border - A border that goes around the padding and content
+  - Margin - Clears an area outside the border. The margin is transparent
