@@ -9,7 +9,7 @@ This *website* gives information about each **module** that we will learn in the
 | Code 201 | [Class 01](https://github.com/CollinsDrew/Tech-Ed201/blob/main/class_01.md) |
 | Code 201 | [Class 02](https://github.com/CollinsDrew/Tech-Ed201/blob/main/class_02.md) |
 | Code 201 | [Class 03](https://github.com/CollinsDrew/Tech-Ed201/blob/main/class_03.md) |
-| Code 201 | Class 04 |
+| Code 201 | [Class 04](https://github.com/CollinsDrew/Tech-Ed201/blob/main/class_04.md) |
 | Code 201 | Class 05 |
 | Code 201 | Class 06 |
 | Code 201 | Class 07 |
