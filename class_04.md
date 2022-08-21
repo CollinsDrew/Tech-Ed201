@@ -18,4 +18,17 @@ A block-level element is an HTML element that begins a new line on a web page an
 In contrast to a block-level element, an inline element:
 - It can begin within a line.
 - It does not start a new line.
-- ts width only extends as far as it is defined by its tags. 
+- Its width only extends as far as it is defined by its tags. 
+
+**Static** is the default positioning for every HTML element.
+  
+The advantage of **absolute** positioning is that you can easily position your div anywhere you want with "bottom:";, "top:";, "right:"; and "left:".
+A **fixed** position element is positioned relative to the viewport, or the browser window itself, where as **absolute** is positioned relative to the nearest positioned ancestor element.
+  
+## Learn JS
+  
+A function declaration tells the JavaScript engine about a function's name, return type, and parameters. When a function has been declared, it can be used anytime inside a class or development scope whenever it's been called/invoked.
+  
+Function Invocation is used to executes the function code and it is common to use the term “call a function” instead of “invoke a function”. The code inside a function is executed when the function is invoked.
+  
+Parameters are properties of a function. Arguments are properties of a particular call to a function. In javascript, if you don't give a number of arguments equal to the number of parameters, the extra come across as undefined .
