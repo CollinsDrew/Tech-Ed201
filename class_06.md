@@ -1,4 +1,4 @@
-# Class 9
+# Class 6
 
 ## JavaScript Object Basics
 
